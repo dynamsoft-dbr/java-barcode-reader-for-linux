@@ -23,6 +23,10 @@ The sample demonstrates how to quickly implement a Java Barcode Reader on Linux 
 
     ![barcode result](http://www.codepool.biz/wp-content/uploads/2015/12/jni_barcode_result.png)
 
+## Blog
+[How to Create Java Barcode Reader on Linux with JNI][4]
+
 [1]:http://labs.dynamsoft.com/linux-barcode-reader-overview.htm
 [2]:https://www.eclipse.org/downloads/
 [3]:https://eclipse.org/cdt/downloads.php
+[4]:http://www.codepool.biz/linux-java-jni-barcode-reader.html
